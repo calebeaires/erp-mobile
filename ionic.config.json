@@ -1,0 +1,7 @@
+{
+  "name": "erp-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
